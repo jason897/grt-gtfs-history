@@ -41,11 +41,12 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 63,63,Champlain,3,ffb200,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 64,64,Langs,3,cc0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 67,67,Eagle-Pinebush,3,6600ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-72,72,Boxwood Flex,3,a15641,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+72,72,Boxwood Flex,3,a15641,ffffff,https://www.grt.ca/en/schedules-maps/route-72-flex-boxwood.aspx
 73,73,Northlake,3,00adef,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 75,75,Saginaw,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 76,76,Doon Mills,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-77,77,Wilmot,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+77,77,Wilmot,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/route-77-wilmot.aspx
+79,79,Breslau,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/route-79-breslau.aspx
 110,110,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
 201,201,iXpress Fischer-Hallman,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 202,202,iXpress University,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -56,6 +57,5 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 3011,301R,ION Replacement Shuttle,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
-8881,8881,Oktoberferst Lot 42 Shuttle,3,2e3092,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
 9801,9801,Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
 9851,9851,GCI Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx

@@ -41,13 +41,12 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 58,58,Elgin North,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 6,6,Bridge-Courtland,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 60,60,Burnett,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
-61,61,Fountain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
+61,61,Preston,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 62,62,Speedsville,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 63,63,Champlain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 65,65,Saginaw,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 67,67,Eagle-Pinebush,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 7,7,King,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
-72,72,Boxwood Flex,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 76,76,Doon Mills,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 77,77,Wilmot,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 78,78,Fountain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx

@@ -42,6 +42,7 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 6,6,Bridge-Courtland,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 60,60,Burnett,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 61,61,Fountain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
+62,62,Speedsville,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 63,63,Champlain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 65,65,Saginaw,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 67,67,Eagle-Pinebush,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -49,8 +50,10 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 72,72,Boxwood Flex,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 76,76,Doon Mills,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 77,77,Wilmot,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
+78,78,Fountain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 8,8,Weber,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 9,9,Lakeshore,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
+91,91,Late Night Loop,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 9801,9801,GCI Special,,3,
 9851,9851,GCI Special,,3,
 9952,9952,GCI - AST Special,,3,

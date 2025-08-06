@@ -24,6 +24,7 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 3,3,Ottawa South,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 30,30,Ring Road,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 301,301,ION light rail,,2,https://www.grt.ca/en/schedules-maps/schedules.aspx
+3011,3011,301R ION Shuttle,,3,https://www.grt.ca/en/service-updates/service-alerts.aspx
 302,302,ION bus,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 31,31,Columbia,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -52,7 +53,3 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 78,78,Fountain,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 8,8,Weber,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 9,9,Lakeshore,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
-91,91,Late Night Loop,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
-9801,9801,GCI Special,,3,
-9851,9851,GCI Special,,3,
-9952,9952,GCI - AST Special,,3,

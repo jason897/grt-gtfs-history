@@ -24,7 +24,6 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 3,3,Ottawa South,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 30,30,Ring Road,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 301,301,ION light rail,,2,https://www.grt.ca/en/schedules-maps/schedules.aspx
-3011,3011,301R ION Shuttle,,3,https://www.grt.ca/en/service-updates/service-alerts.aspx
 302,302,ION bus,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 31,31,Columbia,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx

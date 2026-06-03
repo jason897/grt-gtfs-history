@@ -22,6 +22,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 29,Grand River Transit,29,Keats-University,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 3,Grand River Transit,3,Ottawa South,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 30,Grand River Transit,30,Ring Road,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
+3011,Grand River Transit,3011,301R ION Shuttle,,3,https://www.grt.ca/en/service-updates/service-alerts.aspx
 302,Grand River Transit,302,ION bus,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 31,Grand River Transit,31,Columbia,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,Grand River Transit,33,Huron,,3,https://www.grt.ca/en/schedules-maps/schedules.aspx

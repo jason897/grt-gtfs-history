@@ -1042,7 +1042,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2508,2508,King / Weber,,43.485541,-80.527092,,,0,,1,
 2509,2509,King / Columbia,,43.482339,-80.526367,,,0,,1,
 2512,2512,Columbia / Hazel,,43.480083,-80.531530,,,0,,1,
-2514,2514,Columbia / Lester,,43.477972,-80.537443,,,0,,1,
 2515,2515,Ring Rd. / U.W. - South Campus Hall,,43.468601,-80.540284,,,0,,1,
 2516,2516,Ring Rd. / U.W. - Environment 3,,43.467795,-80.543591,,,0,,1,
 2518,2518,Ring Rd. / U.W. - University Club,,43.472738,-80.547992,,,0,,1,

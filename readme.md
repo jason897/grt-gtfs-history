@@ -1,9 +1,9 @@
 Note: In 2026 the GRT GTFS feeds were modified to be given in separate Bus and LRT feeds.
 
 
-As of **2026-11-16** :
+As of **2026-11-24** :
 
 
-The Bus feed has date range: **2026-11-16** to **2026-12-20**
+The Bus feed has date range: **2026-11-23** to **2026-12-20**
 
 The LRT feed has date range: **2026-07-05** to **2028-07-03**
